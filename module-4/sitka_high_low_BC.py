@@ -1,4 +1,4 @@
-#Brandon Cox July 7th module 4 assignment 4.2
+#Brandon Cox July 5th module 4 assignment 4.2
 
 import csv
 from datetime import datetime
